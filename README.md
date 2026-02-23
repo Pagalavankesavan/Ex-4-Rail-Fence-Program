@@ -53,7 +53,8 @@ STEP-5: Read the characters row wise or column wise in the former order to get t
  }
 ```
 # OUTPUT
-<img width="807" height="1002" alt="image" src="https://github.com/user-attachments/assets/08861537-0472-49e9-9a5b-6c8775e03193" />
+<img width="432" height="250" alt="Screenshot 2026-02-23 084334" src="https://github.com/user-attachments/assets/c52c0f5d-4546-4b3f-98b5-3d2e9689e6af" />
+
 
 # RESULT
 The program mwas executed sucessfully
